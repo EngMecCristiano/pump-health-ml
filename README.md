@@ -80,6 +80,6 @@ Engenheiro Mecânico Sênior | Especialista em Confiabilidade | Entusiasta de Da
 
 Com mais de 15 anos de experiência na indústria pesada (Mineração, Óleo & Gás), sou especialista em traduzir o comportamento de ativos físicos em insights de dados acionáveis.
 
-- **LinkedIn:** [https://www.linkedin.com/in/cristiano-sacramento-a53a8138/](https://www.linkedin.com/in/cristiano-sacramento-a53a8138/)
+- **LinkedIn:** [https://www.linkedin.com/in/cristianopmp/)
 
 Este projeto é para fins educacionais e de portfólio, demonstrando a aplicação de Python na Engenharia de Confiabilidade.
